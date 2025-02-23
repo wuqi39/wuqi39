@@ -1,16 +1,18 @@
-## Hi there 👋
+# About me
 
-<!--
-**wuqi39/wuqi39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😉# 👾 计算机小白来啦！
+嘿，我是计算机专业的小白一枚，就像刚闯入游戏世界的新手，正在努力打怪升级🎮。
 
-Here are some ideas to get you started:
+## 🔭 正在搞啥
+我现在正忙着捣鼓一些基础的编码项目，什么控制台小游戏、简单网页，虽然小，但每一个都是我的宝贝😜。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 学啥呢
+我正在啃数据结构和算法这块硬骨头，还有 Python 和 Java 这两门编程语言。有时候被难题搞得头大，但我从不认输💪。
+
+## 👯 一起搞事情
+我超想和小伙伴们一起参与开源项目，人多力量大，咱们一起在代码的世界里大闹一场🥳。
+
+## 🤔 求带飞
+准备求职的我，就像迷路的小羔羊，急需各位大佬在简历和面试方面拉我一把🙌。
+
+
