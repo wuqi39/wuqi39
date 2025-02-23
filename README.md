@@ -15,4 +15,21 @@
 ## 🤔 求带飞
 准备求职的我，就像迷路的小羔羊，急需各位大佬在简历和面试方面拉我一把🙌。
 
+---
 
+# About me
+
+😉# 👾 A Newbie in the Computer Industry Is Here!
+Hey! I'm a newbie in the computer industry. Just like a novice who has just stepped into a game world, I'm working hard to level up 🎮.
+
+## 🔭 What I'm Working On
+I'm currently busy tinkering with some basic coding projects, like console games and simple web pages. Although they are small, each one of them is my precious baby 😜.
+
+## 🌱 What I'm Learning
+I'm struggling to master data structures and algorithms, which are like tough nuts to crack, as well as two programming languages, Python and Java. Sometimes, I'm really frustrated by difficult problems, but I never give up 💪.
+
+## 👯 Let's Collaborate
+I'm really eager to join open - source projects with my fellow friends. Many hands make light work. Let's have a great time in the world of code together 🥳.
+
+## 🤔 Seeking Help
+As I'm preparing for job hunting, I'm like a lost lamb. I desperately need some guidance from the senior developers in terms of resume writing and interview skills 🙌. 
